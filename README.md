@@ -8,3 +8,17 @@
     <a href="https://mikk7440.github.io">mikk7440.github.io</a>
     <br />
     <br />
+  <p align="center">
+  Fork from <a href="https://github.com/hashirshoaeb/home">hashirshoaeb.github.io</a>
+
+### Local Deploy
+
+```
+npm start
+```
+
+### Deploy
+```
+npm run build
+npm run custom-deploy
+```
